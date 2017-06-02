@@ -1,0 +1,9 @@
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zWPF Startup Project\ViewModel\bin\Debug\ViewModel.dll
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zWPF Startup Project\ViewModel\bin\Debug\ViewModel.pdb
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zWPF Startup Project\ViewModel\bin\Debug\EPPlus.dll
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zWPF Startup Project\ViewModel\bin\Debug\EPPlus.xml
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zWPF Startup Project\ViewModel\obj\Debug\_ViewModel.csprojResolveAssemblyReference.cache
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zWPF Startup Project\ViewModel\obj\Debug\ViewModel.dll
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zWPF Startup Project\ViewModel\obj\Debug\ViewModel.pdb
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zWPF Startup Project\ViewModel\bin\Debug\zLib.dll
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zWPF Startup Project\ViewModel\bin\Debug\zLib.pdb

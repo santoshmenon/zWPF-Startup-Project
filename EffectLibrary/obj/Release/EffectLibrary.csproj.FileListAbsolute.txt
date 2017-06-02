@@ -1,0 +1,6 @@
+C:\Users\AUljanovs\Documents\Visual Studio 2015\Projects\PTR\SimpleMultiInputEffectShader\bin\Release\EffectLibrary.dll
+C:\Users\AUljanovs\Documents\Visual Studio 2015\Projects\PTR\SimpleMultiInputEffectShader\bin\Release\EffectLibrary.pdb
+C:\Users\AUljanovs\Documents\Visual Studio 2015\Projects\PTR\SimpleMultiInputEffectShader\obj\Release\EffectLibrary.csprojResolveAssemblyReference.cache
+C:\Users\AUljanovs\Documents\Visual Studio 2015\Projects\PTR\SimpleMultiInputEffectShader\obj\Release\EffectLibrary.g.resources
+C:\Users\AUljanovs\Documents\Visual Studio 2015\Projects\PTR\SimpleMultiInputEffectShader\obj\Release\EffectLibrary.dll
+C:\Users\AUljanovs\Documents\Visual Studio 2015\Projects\PTR\SimpleMultiInputEffectShader\obj\Release\EffectLibrary.pdb

@@ -1,0 +1,6 @@
+C:\Users\AUljanovs\Desktop\SimpleMultiInputEffect\SimpleMultiInputEffectShader\obj\Debug\SimpleMultiInputEffectShader.csprojResolveAssemblyReference.cache
+C:\Users\AUljanovs\Desktop\SimpleMultiInputEffect\SimpleMultiInputEffectShader\bin\Debug\SimpleMultiInputEffectShader.dll
+C:\Users\AUljanovs\Desktop\SimpleMultiInputEffect\SimpleMultiInputEffectShader\bin\Debug\SimpleMultiInputEffectShader.pdb
+C:\Users\AUljanovs\Desktop\SimpleMultiInputEffect\SimpleMultiInputEffectShader\obj\Debug\SimpleMultiInputEffectShader.g.resources
+C:\Users\AUljanovs\Desktop\SimpleMultiInputEffect\SimpleMultiInputEffectShader\obj\Debug\SimpleMultiInputEffectShader.dll
+C:\Users\AUljanovs\Desktop\SimpleMultiInputEffect\SimpleMultiInputEffectShader\obj\Debug\SimpleMultiInputEffectShader.pdb

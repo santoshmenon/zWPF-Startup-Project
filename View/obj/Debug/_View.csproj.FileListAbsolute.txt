@@ -1,0 +1,42 @@
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zWPF Startup Project\View\obj\Debug\_View.csprojResolveAssemblyReference.cache
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zWPF Startup Project\View\obj\Debug\Controls\WindowButtons.g.cs
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zWPF Startup Project\View\obj\Debug\MainWindow.g.cs
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zWPF Startup Project\View\obj\Debug\App.g.cs
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zWPF Startup Project\View\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zWPF Startup Project\View\obj\Debug\zWPF Startup Project_MarkupCompile.cache
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zWPF Startup Project\View\obj\Debug\zWPF Startup Project_MarkupCompile.lref
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zWPF Startup Project\View\bin\Debug\zWPF Startup Project.exe.config
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zWPF Startup Project\View\bin\Debug\zWPF Startup Project.exe
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zWPF Startup Project\View\bin\Debug\zWPF Startup Project.pdb
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zWPF Startup Project\View\bin\Debug\EffectLibrary.dll
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zWPF Startup Project\View\bin\Debug\ViewModel.dll
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zWPF Startup Project\View\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zWPF Startup Project\View\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zWPF Startup Project\View\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zWPF Startup Project\View\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zWPF Startup Project\View\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zWPF Startup Project\View\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zWPF Startup Project\View\bin\Debug\zLib.dll
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zWPF Startup Project\View\bin\Debug\EffectLibrary.pdb
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zWPF Startup Project\View\bin\Debug\ViewModel.pdb
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zWPF Startup Project\View\bin\Debug\zLib.pdb
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zWPF Startup Project\View\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zWPF Startup Project\View\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zWPF Startup Project\View\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zWPF Startup Project\View\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zWPF Startup Project\View\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zWPF Startup Project\View\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zWPF Startup Project\View\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zWPF Startup Project\View\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zWPF Startup Project\View\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zWPF Startup Project\View\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zWPF Startup Project\View\obj\Debug\Controls\WindowButtons.baml
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zWPF Startup Project\View\obj\Debug\MainWindow.baml
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zWPF Startup Project\View\obj\Debug\Resources\EmptyWindowStyle.baml
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zWPF Startup Project\View\obj\Debug\zWPF Startup Project.g.resources
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zWPF Startup Project\View\obj\Debug\zWPF_StartupProject.View.Properties.Resources.resources
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zWPF Startup Project\View\obj\Debug\_View.csproj.GenerateResource.Cache
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zWPF Startup Project\View\obj\Debug\zWPF Startup Project.exe
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zWPF Startup Project\View\obj\Debug\zWPF Startup Project.pdb
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zWPF Startup Project\View\obj\Debug\Themes\Generic.baml
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zWPF Startup Project\View\obj\Debug\App.baml
