@@ -17,44 +17,48 @@
     </UserControl.Resources>
 
     <StackPanel Grid.Column="0" Orientation="Horizontal" VerticalAlignment="Top" shell:WindowChrome.IsHitTestVisibleInChrome="True" HorizontalAlignment="Right" Height="20">
-		
-        <c:zButton x:Name="Minimize" Command="{Binding Source={x:Static shell:SystemCommands.MinimizeWindowCommand}}" Width="32" >
+
+        <c:zButton x:Name="Minimize" Width="32" Click="MinimizeButton_Click" >
             <Border Width="10" Height="9" BorderBrush="White" BorderThickness="0,0,0,2" SnapsToDevicePixels="True"/>
         </c:zButton>
 
-        <c:zButton x:Name="MaximizeRestore" Margin="1,0,1,0" Width="32">
+        <c:zButton x:Name="Restore" Margin="1,0,1,0" Width="32" Click="RestoreButton_Click">
+            <Grid Width="10" Height="9">
+                <Border Width="8" Height="6" BorderBrush="White" BorderThickness="1,2,1,1"
+												SnapsToDevicePixels="True" HorizontalAlignment="Left" VerticalAlignment="Bottom"/>
+                <Border Width="8" Height="6" BorderBrush="White" BorderThickness="0,2,1,0"
+												SnapsToDevicePixels="True" HorizontalAlignment="Right" VerticalAlignment="Top"/>
+            </Grid>
             <c:zButton.Style>
                 <Style TargetType="{x:Type c:zButton}" BasedOn="{StaticResource {x:Type c:zButton}}">
-                    <Setter Property="Content">
-                        <Setter.Value>
-                            <Border Width="10" Height="9" BorderBrush="White" BorderThickness="1,2,1,1" SnapsToDevicePixels="True"/>
-                        </Setter.Value>
-                    </Setter>
-                    <Setter Property="Command" Value="{Binding Source={x:Static shell:SystemCommands.MaximizeWindowCommand}}"/>
+                    <Setter Property="Visibility" Value="Collapsed"/>
                     <Style.Triggers>
                         <DataTrigger Binding="{Binding WindowState, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Window}}}" Value="Maximized">
-                            <Setter Property="Content">
-                                <Setter.Value>
-                                    <Grid Width="10" Height="9">
-                                        <Border Width="8" Height="6" BorderBrush="White" BorderThickness="1,2,1,1"
-												SnapsToDevicePixels="True" HorizontalAlignment="Left" VerticalAlignment="Bottom"/>
-                                        <Border Width="8" Height="6" BorderBrush="White" BorderThickness="0,2,1,0"
-												SnapsToDevicePixels="True" HorizontalAlignment="Right" VerticalAlignment="Top"/>
-                                    </Grid>
-                                </Setter.Value>
-                            </Setter>
-                            <Setter Property="Command" Value="{Binding Source={x:Static shell:SystemCommands.RestoreWindowCommand}}"/>
+                            <Setter Property="Visibility" Value="Visible"/>
                         </DataTrigger>
                     </Style.Triggers>
                 </Style>
             </c:zButton.Style>
         </c:zButton>
 
-        <c:zButton x:Name="Close" Command="{Binding Source={x:Static shell:SystemCommands.CloseWindowCommand}}" Width="32" Highlight="#BFDA605B" Pressed="#BFCA3333" >
+        <c:zButton x:Name="Maximize" Margin="1,0,1,0" Width="32" Click="MaximizeButton_Click">
+            <Border Width="10" Height="9" BorderBrush="White" BorderThickness="1,2,1,1" SnapsToDevicePixels="True"/>
+            <c:zButton.Style>
+                <Style TargetType="{x:Type c:zButton}" BasedOn="{StaticResource {x:Type c:zButton}}">
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding WindowState, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Window}}}" Value="Maximized">
+                            <Setter Property="Visibility" Value="Collapsed"/>
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </c:zButton.Style>
+        </c:zButton>
+
+        <c:zButton x:Name="Close" Width="32" Highlight="#BFDA605B" Pressed="#BFCA3333" Click="CloseButton_Click" >
             <Border Width="12" Height="11" RenderTransform="1,0,0,1,0,1">
                 <Path Data="M0,0 L8,7 M8,0 L0,7 Z" Width="8" Height="7" VerticalAlignment="Center" HorizontalAlignment="Center" StrokeThickness="1.5" Stroke="White"/>
             </Border>
         </c:zButton>
-		
+
     </StackPanel>
 </UserControl>
