@@ -1,9 +1,9 @@
-﻿<UserControl x:Class="zWPF_StartupProject.View.Controls.WindowButtons"
+﻿<UserControl x:Class="zWPFStartupProject.View.Controls.WindowButtons"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
-             xmlns:c="clr-namespace:zWPF_StartupProject.View.Controls"
+             xmlns:c="clr-namespace:zWPFStartupProject.View.Controls"
              xmlns:shell="clr-namespace:Microsoft.Windows.Shell;assembly=Xceed.Wpf.AvalonDock"
              mc:Ignorable="d" 
              d:DesignHeight="50" d:DesignWidth="150" VerticalAlignment="Top" HorizontalAlignment="Right">

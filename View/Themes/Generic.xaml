@@ -4,7 +4,7 @@
     xmlns:col="clr-namespace:System.Collections;assembly=mscorlib"
     xmlns:s="clr-namespace:zLib;assembly=zLib"
     xmlns:e="clr-namespace:EffectLibrary;assembly=EffectLibrary"
-    xmlns:c="clr-namespace:zWPF_StartupProject.View.Controls"
+    xmlns:c="clr-namespace:zWPFStartupProject.View.Controls"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d">
     <!--<c:PathToDrawingBrushConverter x:Key="PathToDrawingBrushConverter"/>

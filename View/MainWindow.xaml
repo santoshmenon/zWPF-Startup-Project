@@ -1,25 +1,29 @@
-﻿<Window x:Class="zWPF_StartupProject.View.MainWindow"
+﻿<Window x:Class="zWPFStartupProject.View.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:View"
-        xmlns:c="clr-namespace:zWPF_StartupProject.View.Controls"
-        xmlns:vm="clr-namespace:zWPF_StartupProject.ViewModel;assembly=ViewModel"
+        xmlns:c="clr-namespace:zWPFStartupProject.View.Controls"
+        xmlns:vm="clr-namespace:zWPFStartupProject.ViewModel;assembly=ViewModel"
         xmlns:shell="clr-namespace:Microsoft.Windows.Shell;assembly=Xceed.Wpf.AvalonDock"
         mc:Ignorable="d"
         d:DataContext="{DynamicResource TestViewModel}"
         Title="MainWindow" Height="350" Width="525" WindowStartupLocation="Manual" MinWidth="600" MinHeight="400"
-        WindowStyle="None" Style="{DynamicResource EmptyWindowStyle}" ResizeMode="CanResizeWithGrip"
-        Background="{DynamicResource Pallete.Primary.Brightest}" BorderBrush="{DynamicResource Pallete.Primary.Brighter}" Foreground="{DynamicResource Pallete.Primary.Darkest}">
+        ResizeMode="CanResizeWithGrip"
+        Background="#FF223444" BorderBrush="{DynamicResource Pallete.Primary.Brighter}" BorderThickness="2" Foreground="{DynamicResource Pallete.Primary.Darkest}" WindowStyle="None" Style="{DynamicResource EmptyWindowStyle}">
     <Window.Resources>
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>
-                <!--<ResourceDictionary Source="Resources/EmptyWindowStyle.xaml"/>-->
+                <ResourceDictionary Source="Resources/EmptyWindowStyle.xaml"/>
             </ResourceDictionary.MergedDictionaries>
-            <vm:ViewModel x:Key="TestViewModel"/>
+            <vm:MainViewModel x:Key="TestViewModel"/>
         </ResourceDictionary>
     </Window.Resources>
     <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="32"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid x:Name="Title" Background="{DynamicResource Pallete.Primary}"/>
     </Grid>
 </Window>

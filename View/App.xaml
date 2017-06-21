@@ -1,8 +1,10 @@
-﻿<Application x:Class="View.App"
+﻿<Application x:Class="zWPFStartupProject.View.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:View"
-             StartupUri="MainWindow.xaml">
+             xmlns:local="clr-namespace:zWPF_StartupProject.View"
+             xmlns:c="clr-namespace:zWPFStartupProject.View.Controls"
+             xmlns:p="clr-namespace:zWPFStartupProject.View.Properties"
+             xmlns:s="clr-namespace:zLib;assembly=zLib">
     <Application.Resources>
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>

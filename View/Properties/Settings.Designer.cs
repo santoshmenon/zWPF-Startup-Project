@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace zWPF_StartupProject.View.Properties {
+namespace zWPFStartupProject.View.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]

@@ -1,8 +1,7 @@
 ﻿using System.Windows;
 using System.Windows.Controls;
-using View;
 
-namespace zWPF_StartupProject.View.Controls {
+namespace zWPFStartupProject.View.Controls {
 	/// <summary>
 	/// Interaction logic for WindowButtons.xaml
 	/// </summary>

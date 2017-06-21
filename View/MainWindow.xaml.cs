@@ -7,36 +7,18 @@ using System.Runtime.InteropServices;
 using WinInterop = System.Windows.Interop;
 using System;
 
-namespace zWPF_StartupProject.View {
+namespace zWPFStartupProject.View {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
     public partial class MainWindow : Window {
-
-        //private MainViewModel mvm;
-        //public MainViewModel Mvm {
-        //	get { return mvm; }
-        //	set { mvm = value; }
-        //}
-
-
+        
         public MainWindow() {
             InitializeComponent();
-
-            //ExportControl.DataContextChanged += (dp, e) => {
-            //    (ExportControl.DataContext as IDialogHelper).OpenDialog = DialogHelper.OpenDialog;
-            //};
-
+            
             //this.Loaded += new RoutedEventHandler(win_Loaded);
             this.SourceInitialized += new EventHandler(win_SourceInitialized);
-
-            //Applying previous session settings TODO do it through DP
-            //int view = ViewerSettings.Default.WindowLastView;
-            //mvm.CurrentView = (MainViewModel.Views)view;
-            //         if (Mvm.CurrentView == MainViewModel.Views.FolderView) { Mvm.SelectedObject = Mvm.SelectedADFolder; }
-            //         if (Mvm.CurrentView == MainViewModel.Views.FunctionView) { Mvm.SelectedObject = Mvm.SelectedIFunction; }
-            //if (Mvm.CurrentView == MainViewModel.Views.UserView) { Mvm.SelectedObject = Mvm.SelectedUUser; } //Not necessary
-
+            
             double w = ViewerSettings.Default.WindowStartWidth;
             double h = ViewerSettings.Default.WindowStartHeight;
             double x = ViewerSettings.Default.WindowStartX;
@@ -73,16 +55,10 @@ namespace zWPF_StartupProject.View {
             ViewerSettings.Default.WindowStartHeight = Height;
             ViewerSettings.Default.WindowStartX = Left;
             ViewerSettings.Default.WindowStartY = Top;
-            //if (mvm !=null) ViewerSettings.Default.WindowLastView =	(int)mvm.CurrentView; TODO
             ViewerSettings.Default.Save();
             base.OnClosing(e);
         }
-
-        //private void IFunctionListBox_SelectionChanged(object sender, System.Windows.Controls.SelectionChangedEventArgs e) {
-        //    if ((sender as ListBox).SelectedItem as FrameworkElement != null) ((sender as ListBox).SelectedItem as FrameworkElement).BringIntoView();
-        //}
-
-
+        
         void win_SourceInitialized(object sender, EventArgs e) {
             System.IntPtr handle = (new WinInterop.WindowInteropHelper(this)).Handle;
             WinInterop.HwndSource.FromHwnd(handle).AddHook(new WinInterop.HwndSourceHook(WindowProc));

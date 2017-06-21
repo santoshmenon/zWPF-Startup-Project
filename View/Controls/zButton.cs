@@ -15,7 +15,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace zWPF_StartupProject.View.Controls {
+namespace zWPFStartupProject.View.Controls {
 	public class zButton : Button, INotifyPropertyChanged {
 
 		DesaturateEffect _desaturateEffect = new DesaturateEffect();

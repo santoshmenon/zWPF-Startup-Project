@@ -1,19 +1,19 @@
-﻿zWPF Startup Project
+﻿View
 
 
 winexe
 C#
 .cs
 C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\View\obj\Debug\
-zWPF_StartupProject.View
+zWPFStartupProject.View
 none
 false
 DEBUG;TRACE
 C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\View\App.xaml
 48654984
 
-13-6016321
-26527373475
+13-664485876
+25-1152372824
 Controls\WindowButtons.xaml;MainWindow.xaml;Resources\EmptyWindowStyle.xaml;Themes\Generic.xaml;
 
 False
