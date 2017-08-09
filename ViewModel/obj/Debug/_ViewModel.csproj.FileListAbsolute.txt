@@ -13,3 +13,4 @@ C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\ViewModel\bin\Debug\zLi
 C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\ViewModel\bin\Debug\zLib.pdb
 C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\ViewModel\obj\Debug\ViewModel.dll
 C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\ViewModel\obj\Debug\ViewModel.pdb
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\ViewModel\obj\Debug\_ViewModel.csprojResolveAssemblyReference.cache
