@@ -3,6 +3,8 @@
 
 This project was created to aid in starting a new project with completely customized window style. You'll have only what you've created.
 
+![Preview](preview.png)
+
 It's now pretty outdated though. I'll add my new stydies when my current project will be closer to be finished so I'll put the best of it here.
 
 * **zLib**
