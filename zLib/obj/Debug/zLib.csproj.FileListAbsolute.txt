@@ -3,8 +3,3 @@ C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zWPF Startup Project\zL
 C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zWPF Startup Project\zLib\obj\Debug\zLib.dll
 C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zWPF Startup Project\zLib\obj\Debug\zLib.pdb
 C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zWPF Startup Project\zLib\obj\Debug\zLib.csprojResolveAssemblyReference.cache
-C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zLib\bin\Debug\zLib.dll
-C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zLib\bin\Debug\zLib.pdb
-C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zLib\obj\Debug\zLib.csprojResolveAssemblyReference.cache
-C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zLib\obj\Debug\zLib.dll
-C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\zLib\obj\Debug\zLib.pdb

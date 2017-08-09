@@ -4,3 +4,9 @@ C:\Users\AUljanovs\Documents\Visual Studio 2015\Projects\PTR\SimpleMultiInputEff
 C:\Users\AUljanovs\Documents\Visual Studio 2015\Projects\PTR\SimpleMultiInputEffectShader\obj\Release\EffectLibrary.g.resources
 C:\Users\AUljanovs\Documents\Visual Studio 2015\Projects\PTR\SimpleMultiInputEffectShader\obj\Release\EffectLibrary.dll
 C:\Users\AUljanovs\Documents\Visual Studio 2015\Projects\PTR\SimpleMultiInputEffectShader\obj\Release\EffectLibrary.pdb
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\EffectLibrary\bin\Release\EffectLibrary.dll
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\EffectLibrary\bin\Release\EffectLibrary.pdb
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\EffectLibrary\obj\Release\EffectLibrary.csprojResolveAssemblyReference.cache
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\EffectLibrary\obj\Release\EffectLibrary.g.resources
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\EffectLibrary\obj\Release\EffectLibrary.dll
+C:\Users\AUljanovs\Documents\GitHub\zWPF Startup Project\EffectLibrary\obj\Release\EffectLibrary.pdb

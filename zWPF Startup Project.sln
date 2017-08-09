@@ -13,6 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_ViewModel", "ViewModel\_Vi
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3BC5AA26-1996-4585-8B00-01A73E83ABE7}"
 	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
 		Readme.md = Readme.md
 	EndProjectSection
 EndProject
